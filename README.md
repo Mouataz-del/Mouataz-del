@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mouataz
 - 👀 I’m interested in Machin learning and Embedded Systems 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently a PHD student
+- 💞️ I'm looking to new opportunity
 - 📫 How to reach me lghoul.mouataz@gmail.com
 
 <!---
